@@ -1,0 +1,7 @@
+Pansdas
+Numpy
+Matplotlib
+Seaborn
+Scikit-learn
+Jupyter
+Machine learning
